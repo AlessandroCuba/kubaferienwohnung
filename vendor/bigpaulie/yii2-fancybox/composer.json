@@ -1,0 +1,22 @@
+{
+    "name": "bigpaulie/yii2-fancybox",
+    "description": "Yii2 FancyBox extension",
+    "license":"MIT",
+    "keywords": ["yii2", "fancybox", "widget", "extension"],
+    "authors": [
+        {
+            "name": "Paul P",
+            "email": "bigpaulie25ro@yahoo.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "2.*",
+        "bower-asset/fancybox":"~2.1"
+    },
+    "autoload": {
+        "psr-4":{
+            "bigpaulie\\fancybox\\":"src/"
+        }
+    }
+}

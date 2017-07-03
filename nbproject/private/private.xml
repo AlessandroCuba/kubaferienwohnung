@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/kubaferienwohnung/backend/views/house/form/_formDetail.php</file>
+            <file>file:/var/www/html/kubaferienwohnung/backend/views/house/view--ver.php</file>
+            <file>file:/var/www/html/kubaferienwohnung/backend/views/house/create.php</file>
+            <file>file:/var/www/html/kubaferienwohnung/backend/views/house/_form.php</file>
+            <file>file:/var/www/html/kubaferienwohnung/common/models/House.php</file>
+            <file>file:/var/www/html/kubaferienwohnung/backend/views/house/index.php</file>
+            <file>file:/var/www/html/kubaferienwohnung/backend/controllers/HouseController.php</file>
+            <file>file:/var/www/html/kubaferienwohnung/backend/views/house/view.php</file>
+        </group>
+    </open-files>
+</project-private>

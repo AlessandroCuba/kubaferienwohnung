@@ -1,0 +1,27 @@
+{
+    "name": "pendalf89/yii2-blog",
+    "description": "Yii2 blog module",
+    "license": "GNU GPLv2",
+    "authors": [
+        {
+            "name": "PendalF",
+            "email": "pendalf@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable" : true,
+    "require": {
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-imagine": "*",
+        "pendalf89/yii2-tree": "*",
+        "pendalf89/yii2-filemanager": "*",
+        "thiagotalma/yii2-jstree": "*",
+        "kartik-v/yii2-widget-typeahead": "*",
+        "kartik-v/yii2-widget-alert": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "pendalf89\\blog\\": ""
+        }
+    }
+}
